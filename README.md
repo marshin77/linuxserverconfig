@@ -1,6 +1,6 @@
 # linuxserverconfig
-ip: 192.168.56.1 port: 2200
-address: 192.168.56.1:5000
+ip: 24.192.65.191 port: 2200
+address: 24.192.65.191:81
 
 RSA encryption key password: benis
 
