@@ -1,8 +1,10 @@
 # linuxserverconfig
-ip: 24.192.65.191 port: 2200
-address: 24.192.65.191:81
+ip: 35.165.196.129
+ port: 2200
+address: 35.165.196.129
 
-RSA encryption key password: benis
+
+
 
 software installed:
 postgresql python-psycopg2
