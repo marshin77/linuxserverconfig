@@ -1,7 +1,7 @@
 # linuxserverconfig
 ip: 35.165.196.129
  port: 2200
-address: 35.165.196.129
+address: http://ec2-35-165-196-129.us-west-2.compute.amazonaws.com/
 
 
 
